@@ -1,3 +1,3 @@
 # gitment-comments
 
-Here are the comments appear in my blog.
+This repository stores all comments in [my personal blog](https://github.com/WindforceYang/blog)
